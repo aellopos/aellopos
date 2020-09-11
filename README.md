@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Michal. I am university student from Brno and I am attend Mendel´s university, where I study economics informatics. I mainly code in JS or Python. I am also Country leader of  [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/ "Microsoft Learn Student Ambassadors's Homepage") and Learning & Development Lead in [Student Trainee Center](https://www.microsoft.com/cs-cz/education/students/stc/default.aspx "Student Trainee Center's Homepage"). I love learning and also lecturing, I am Senior lecturer in [Czechitas](https://www.czechitas.cz/en/ "Czechitas's Homepage"). I do many other things, but if I had to write it, I would run out of space, so fell free to connect with me. ;) 
+
+You can also support me in my activities, I love coffee, so you can [buy me](https://www.buymeacoffee.com/aellopos "BUY ME A COFFEE?!?") one ... or two ... or more. Thanks! ;)
+
 <!--
 **aellopos/aellopos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
